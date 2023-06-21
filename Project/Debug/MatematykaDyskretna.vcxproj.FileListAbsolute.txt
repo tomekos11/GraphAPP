@@ -1,0 +1,2 @@
+C:\Users\TOM\source\repos\MatematykaDyskretna\Debug\MatematykaDyskretna.exe
+C:\Users\TOM\source\repos\MatematykaDyskretna\Debug\MatematykaDyskretna.pdb

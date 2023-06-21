@@ -1,0 +1,5 @@
+﻿  EBO.cpp
+  main.cpp
+  Generating Code...
+C:\Users\TOM\source\repos\MatematykaDyskretna\main.cpp(126): warning C4715: 'okienko': not all control paths return a value
+  MatematykaDyskretna.vcxproj -> C:\Users\TOM\source\repos\MatematykaDyskretna\x64\Debug\MatematykaDyskretna.exe
